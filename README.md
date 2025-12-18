@@ -5,6 +5,12 @@ Useful for prototyping, debugging, or breaking out fine-pitch connectors to brea
 
 <p align="center"> <img src="assets/40p-isometric-view.png" width="50%"> </p>
 
+<p align="center">
+  📟 <a href="https://www.pcbway.com/project/shareproject/Dual_row_40_pin_1_27_pitch_to_2_54_pitch_converter_board_1d84e70d.html">PCBWay Project</a>
+</p>
+
+This project was inspired by a need for quick, reliable adapter boards during embedded systems development (check out the [blog post](https://makeprogress.ee/blog/prototyping-in-an-hour-a-small-pcb)).
+
 ## License
 
 This project is released under CERN Open Hardware Licence Version 2 - Permissive.
